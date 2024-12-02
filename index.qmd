@@ -1,0 +1,38 @@
+---
+title: "Welcome!"
+---
+
+![Thomas Kupferer](sitefiles/TWK_Profile-350x349.jpg){fig-align="left"}
+
+I am a first-year PhD student in the Biomedical and Health Informatics program at the Case Western Reserve University School of Medicine. My academic and professional journey is driven by a commitment to utilizing data to enhance lives, with a particular focus on the healthcare sector. This website is a space where I share my research, experiences, and goals as I work toward making a tangible impact in the field of informatics.
+
+My research focuses on tackling real-world challenges, like combating the opioid epidemic and addressing health disparities, by leveraging advanced data analytics and machine learning. This work combines my background in health informatics, my time in medical school, and my deep curiosity about the intersection of data, technology, and human health.
+
+In addition to my academic pursuits, I’m someone who thrives on exploration—whether it’s diving into a complex dataset, collaborating on a community-driven project, or finding inspiration in Cleveland’s vibrant neighborhoods. My approach to life and research is grounded in curiosity, resilience, and a drive to make meaningful connections.
+
+Explore my site to learn more about my education, projects, and interests. Don’t hesitate to [connect with me](mailto:twk29@case.edu) if you’d like to discuss potential collaborations or say hello!
+
+## Connect with Me
+
+<p style="text-align: left;">
+  <a href="https://github.com/TwKCCO313" style="margin: 0 15px;" target="_blank">
+    <i class="bi bi-github" style="font-size: 1.5rem;"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/thomaskupfererjr/" style="margin: 0 15px;" target="_blank">
+    <i class="bi bi-linkedin" style="font-size: 1.5rem;"></i>
+  </a>
+  <a href="mailto:twk29@case.edu" style="margin: 0 15px;">
+    <i class="bi bi-envelope" style="font-size: 1.5rem;"></i>
+  </a>
+</p>
+
+## Site Map
+
+<footer>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About Me</a></li>
+    <li><a href="CV.html">CV</a></li>
+  </ul>
+</footer>
+

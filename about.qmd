@@ -1,0 +1,49 @@
+---
+title: "About Me"
+---
+
+I am a PhD student at Case Western Reserve University in the Biomedical and Health Informatics program. I am passionate about using data analytics to address healthcare challenges, from improving patient outcomes to tackling systemic issues like the opioid epidemic.
+
+## Education
+
+-   **PhD in Biomedical & Health Informatics** (Ongoing)
+    -   Case Western Reserve University
+-   **MS in Health Informatics** (2023)
+    -   University of Illinois Chicago
+-   **MA in Higher Education Administration** (2007)
+    -   New York University
+-   **BA in Psychology** (2003)
+    -   McKendree University
+
+## Experiences
+
+-   **Upcoming Research Rotation with Dr. Erika Trapl and Dr. Stephanie Pike Moore**
+    -   Exploring data related to population health at the Public Research Center for Health Neighborhoods.
+-   **Research Rotation with Dr. David Kaelber**
+    -   Exploring patient data using TriNetX to investigate opioid use and overdose patterns.
+-   **Clinical Experience**
+    -   Former medical school student with clinical exposure to patient care and system-level challenges.
+-   **Machine Learning Projects**
+    -   Applying predictive analytics to healthcare datasets.
+
+## Interests
+
+-   Predictive modeling for public health.
+-   Machine learning applications in healthcare.
+-   Community-driven projects that bridge data science and social impact.
+
+## Site Map
+
+<footer>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="about.html">About Me</a></li>
+
+<li><a href="CV.html">CV</a></li>
+
+</ul>
+
+</footer>
