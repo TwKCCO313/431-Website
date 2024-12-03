@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Thomas Kupferer\nI am a first-year PhD student in the Biomedical and Health Informatics program at the Case Western Reserve University School of Medicine. My academic and professional journey is driven by a commitment to utilizing data to enhance lives, with a particular focus on the healthcare sector. This website is a space where I share my research, experiences, and goals as I work toward making a tangible impact in the field of informatics.\nMy research focuses on tackling real-world challenges, like combating the opioid epidemic and addressing health disparities, by leveraging advanced data analytics and machine learning. This work combines my background in health informatics, my time in medical school, and my deep curiosity about the intersection of data, technology, and human health.\nIn addition to my academic pursuits, I’m someone who thrives on exploration—whether it’s diving into a complex dataset, collaborating on a community-driven project, or finding inspiration in Cleveland’s vibrant neighborhoods. My approach to life and research is grounded in curiosity, resilience, and a drive to make meaningful connections.\nExplore my site to learn more about my education, projects, and interests. Don’t hesitate to connect with me if you’d like to discuss potential collaborations or say hello!"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Welcome!",
+    "section": "Connect with Me",
+    "text": "Connect with Me"
+  },
+  {
+    "objectID": "index.html#site-map",
+    "href": "index.html#site-map",
+    "title": "Welcome!",
+    "section": "Site Map",
+    "text": "Site Map\n\n\n\nHome\n\n\nAbout Me\n\n\nCV"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download My CV"
+  },
+  {
+    "objectID": "CV.html#site-map",
+    "href": "CV.html#site-map",
+    "title": "Curriculum Vitae",
+    "section": "Site Map",
+    "text": "Site Map\n\n\n\nHome\n\n\nAbout Me\n\n\nCV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a PhD student at Case Western Reserve University in the Biomedical and Health Informatics program. I am passionate about using data analytics to address healthcare challenges, from improving patient outcomes to tackling systemic issues like the opioid epidemic."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biomedical & Health Informatics (Ongoing)\n\nCase Western Reserve University\n\nMS in Health Informatics (2023)\n\nUniversity of Illinois Chicago\n\nMA in Higher Education Administration (2007)\n\nNew York University\n\nBA in Psychology (2003)\n\nMcKendree University"
+  },
+  {
+    "objectID": "about.html#experiences",
+    "href": "about.html#experiences",
+    "title": "About Me",
+    "section": "Experiences",
+    "text": "Experiences\n\nUpcoming Research Rotation with Dr. Erika Trapl and Dr. Stephanie Pike Moore\n\nExploring data related to population health at the Public Research Center for Health Neighborhoods.\n\nResearch Rotation with Dr. David Kaelber\n\nExploring patient data using TriNetX to investigate opioid use and overdose patterns.\n\nClinical Experience\n\nFormer medical school student with clinical exposure to patient care and system-level challenges.\n\nMachine Learning Projects\n\nApplying predictive analytics to healthcare datasets."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\n\nPredictive modeling for public health.\nMachine learning applications in healthcare.\nCommunity-driven projects that bridge data science and social impact."
+  },
+  {
+    "objectID": "about.html#site-map",
+    "href": "about.html#site-map",
+    "title": "About Me",
+    "section": "Site Map",
+    "text": "Site Map\n\n\n\nHome\n\n\nAbout Me\n\n\nCV"
+  }
+]
