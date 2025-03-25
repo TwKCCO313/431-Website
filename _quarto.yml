@@ -13,6 +13,8 @@ website:
         text: About
       - href: CV.qmd
         text: CV
+      - href: posts/
+        text: Blog
         
 
 format:

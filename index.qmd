@@ -15,24 +15,23 @@ Explore my site to learn more about my education, projects, and interests. Donâ€
 ## Connect with Me
 
 <p style="text-align: left;">
-  <a href="https://github.com/TwKCCO313" style="margin: 0 15px;" target="_blank">
-    <i class="bi bi-github" style="font-size: 1.5rem;"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/thomaskupfererjr/" style="margin: 0 15px;" target="_blank">
-    <i class="bi bi-linkedin" style="font-size: 1.5rem;"></i>
-  </a>
-  <a href="mailto:twk29@case.edu" style="margin: 0 15px;">
-    <i class="bi bi-envelope" style="font-size: 1.5rem;"></i>
-  </a>
+
+<a href="https://github.com/TwKCCO313" style="margin: 0 15px;" target="_blank"> <i class="bi bi-github" style="font-size: 1.5rem;"></i> </a> <a href="https://www.linkedin.com/in/thomaskupfererjr/" style="margin: 0 15px;" target="_blank"> <i class="bi bi-linkedin" style="font-size: 1.5rem;"></i> </a> <a href="mailto:twk29@case.edu" style="margin: 0 15px;"> <i class="bi bi-envelope" style="font-size: 1.5rem;"></i> </a>
+
 </p>
 
 ## Site Map
 
 <footer>
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="about.html">About Me</a></li>
-    <li><a href="CV.html">CV</a></li>
-  </ul>
-</footer>
 
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="about.html">About Me</a></li>
+
+<li><a href="CV.html">CV</a></li>
+
+</ul>
+
+</footer>

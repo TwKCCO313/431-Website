@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download My CV"
+  },
+  {
+    "objectID": "CV.html#site-map",
+    "href": "CV.html#site-map",
+    "title": "Curriculum Vitae",
+    "section": "Site Map",
+    "text": "Site Map\n\n\n\nHome\n\n\nAbout Me\n\n\nCV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
@@ -21,16 +35,30 @@
     "text": "Site Map\n\n\n\nHome\n\n\nAbout Me\n\n\nCV"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
+    "objectID": "posts/2025-03-25-modern-scientist.html",
+    "href": "posts/2025-03-25-modern-scientist.html",
+    "title": "Why Today’s Scientist Thinks More Like a Programmer",
     "section": "",
-    "text": "Download My CV"
+    "text": "Jeff Leek’s How to Be a Modern Scientist struck a chord with me right from the introduction. Reflecting on ideas from literary critic Marjorie Perloff—who once suggested that today’s writer resembles more of a programmer than a tortured genius—Leek draws a striking parallel to the world of science. He observes that a similar shift is happening in research: modern scientists are no longer defined solely by novel ideas, but by their ability to build systems, combine existing tools, and apply them creatively to new problems.\nThat perspective deeply resonated with me. I’ve spent the past few years learning how to wrangle large datasets, structure reproducible code, and share work through platforms like GitHub. Every skill that once felt “extra”—from version control, to literate programming in Quarto, to tidy pipelines in R—has turned out to be fundamental to the way I do science.\nThis kind of scientist doesn’t just ask questions. They engineer frameworks to ask better questions at scale. Thinking like a programmer leads to more transparent, collaborative, and impactful science. When code is clean, shared, and documented, it invites others to reproduce, critique, and build upon your work. It democratizes knowledge in a way that peer-reviewed PDFs alone can’t.\nIn fact, I’m exploring ways that data integration and predictive modeling could support real-time decision-making in health crises. What I’ve learned is that the technical backbone—the codebase—is just as important as the hypothesis.\nWhat’s more, the emphasis on building reproducible tools reminds me of another major issue in public health and biomedical research: interoperability. Just like reproducible code allows others to plug into your scientific process, interoperable systems in healthcare—like those built across different EHR platforms—allow stakeholders to share, access, and act on information seamlessly. When we don’t build with interoperability in mind, systems become siloed and progress slows. The same holds true for scientific work that isn’t reproducible or portable.\nThis is also where my personal journey intersects so clearly with Leek’s message. I grew up in a family of physicians and originally planned to follow that same path—I even went to medical school. But while studying medicine, I felt a strong pull in a different direction. I realized that my background gave me something rare: a foot in both worlds, healthcare and technology. That realization led me to change course and pursue a career in Biomedical and Health Informatics. It was a difficult but deliberate decision—because I knew I could do more by bridging the gap between clinical care and technological innovation.\nThat interdisciplinary perspective has become the core of my scientific identity. I understand how technology can serve medicine—and just as importantly, how medicine can shape the questions we ask in technology. That bidirectional translation is at the heart of Leek’s call for scientists who don’t just specialize but synthesize. Scientists who don’t just interpret findings, but architect solutions.\nLeek’s vision is refreshing because it recognizes the scientific power of engineering. A well-documented R package, a robust data pipeline, or a reproducible analysis notebook can advance a field just as much as a clever new theory. In many cases, these tools are what make the clever theories testable in the first place.\nIf you’re an emerging scientist, especially in a computational or applied domain, I highly recommend reading How to Be a Modern Scientist. It’s part guide, part manifesto. And its central message is one I’ll be carrying forward in my PhD work and beyond: science isn’t just about what you know—it’s about what you build, share, and make reproducible."
   },
   {
-    "objectID": "CV.html#site-map",
-    "href": "CV.html#site-map",
-    "title": "Curriculum Vitae",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to the blog! Below you’ll find all my published posts."
+  },
+  {
+    "objectID": "posts/index.html#posts",
+    "href": "posts/index.html#posts",
+    "title": "Blog",
+    "section": "Posts",
+    "text": "Posts\n\nWhy Today’s Scientist Thinks More Like a Programmer"
+  },
+  {
+    "objectID": "posts/index.html#site-map",
+    "href": "posts/index.html#site-map",
+    "title": "Blog",
     "section": "Site Map",
     "text": "Site Map\n\n\n\nHome\n\n\nAbout Me\n\n\nCV"
   },

@@ -1,0 +1,26 @@
+---
+title: "Blog"
+toc: true
+---
+
+Welcome to the blog! Below you'll find my published posts.
+
+## Posts
+
+<li><a href="2025-03-25-modern-scientist.html">Why Today’s Scientist Thinks More Like a Programmer</a></li>
+
+## Site Map
+
+<footer>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="about.html">About Me</a></li>
+
+<li><a href="CV.html">CV</a></li>
+
+</ul>
+
+</footer>
